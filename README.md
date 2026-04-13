@@ -9,5 +9,4 @@ This is the official code repository for generating the input file for the backe
 ## Documentation
 - [Methodology Overview](https://wid.world/how-does-our-income-comparator-work/)
 - [Distributional National Accounts Guidelines](https://wid.world/document/distributional-national-accounts-guidelines-2020-concepts-and-methods-used-in-the-world-inequality-database/)
-- [Research Tools](https://wid.world/research-tools/)
 - [Codes Dictionary](https://wid.world/codes-dictionary/)
